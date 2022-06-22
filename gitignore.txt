@@ -1,0 +1,11 @@
+# Ignore Modules
+apikey.py
+
+# Ignore Mac system files
+# .DS_store
+
+# Ignore files related to  keys
+# .env
+
+# Ignore SASS config files
+#.sass-cache
